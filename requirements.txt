@@ -1,6 +1,4 @@
 pandas
-scikit-surprise
-surprise
-numpy<2
 flask
-uuid
+sklearn
+os
