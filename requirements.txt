@@ -1,4 +1,4 @@
 pandas
 flask
-sklearn
+scikit-learn
 os
